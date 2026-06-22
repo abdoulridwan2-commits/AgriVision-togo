@@ -1,3 +1,4 @@
+import StatsChart from "../components/StatsChart";
 import MapView from "../components/MapView";
 import "../styles/dashboard.css";
 import { useEffect, useState } from "react";
